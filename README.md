@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 🖤
+### boas vindas ao meu perfil 🐴
  meu nome é Fabiola
  
  - Estou esdudando o [Alura] (https://www.alura.com.br)
@@ -10,7 +10,7 @@ fabiolah@prof.educacao.sp.gov.br
 
 @fabiolaheloisa
 
-![](https://media.tenor.com/tL2uwVzpLE0AAAAi/jack-skellington-shh.gif)
+![]()
 
 
 <!--
